@@ -8,7 +8,7 @@
 Summary:	CSS::Minifier::XS - XS based CSS minifier
 Name:		perl-CSS-Minifier-XS
 Version:	0.09
-Release:	5
+Release:	6
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/CSS/%{pdir}-%{pnam}-%{version}.tar.gz
