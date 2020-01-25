@@ -4,7 +4,6 @@
 #
 %define		pdir	CSS
 %define		pnam	Minifier-XS
-%include	/usr/lib/rpm/macros.perl
 Summary:	CSS::Minifier::XS - XS based CSS minifier
 Name:		perl-CSS-Minifier-XS
 Version:	0.09
