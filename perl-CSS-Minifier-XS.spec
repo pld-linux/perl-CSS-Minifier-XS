@@ -6,12 +6,12 @@
 %define		pnam	Minifier-XS
 Summary:	CSS::Minifier::XS - XS based CSS minifier
 Name:		perl-CSS-Minifier-XS
-Version:	0.13
-Release:	5
+Version:	0.15
+Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/CSS/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	310e620a4dd264a55696b5e4f8224428
+Source0:	https://www.cpan.org/modules/by-authors/id/G/GT/GTERMARS/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	e800ca3beef6645be9f5ac7119abc324
 URL:		http://search.cpan.org/dist/CSS-Minifier-XS/
 BuildRequires:	perl-Module-Build
 BuildRequires:	perl-devel >= 1:5.8.0
